@@ -20,5 +20,3 @@ A high-performance Python multimedia application that converts and renders video
 * **Pygame:** Hardware-accelerated window generation, font rendering, and audio mixing.
 * **MoviePy:** Background audio track extraction.
 
-
-**How to use this on GitHub:** Copy and paste this directly into the top of your `README.md` file. It tells other developers exactly what the tool is, how it works under the hood, and proves that you understand performance optimization.
